@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Caine
+comment1.params=varsta\ culoare\ rasa\ greutate
+comment1.target=Caine(int,\ java.lang.String,\ java.lang.String,\ double)
+comment1.text=Caine(){\r\n\ \ \ \ \ \ \ \ //rezerva\ spatiul\ in\ memorie\ pentru\ un\ obiect\ de\ tip\ caine\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ }\r\n
+comment2.params=
+comment2.target=void\ latra()
+comment3.params=
+comment3.target=void\ doarme()
+comment4.params=
+comment4.target=void\ mananca()
+numComments=5
