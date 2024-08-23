@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pisica
+comment1.params=nume\ varsta
+comment1.target=Pisica(java.lang.String,\ int)
+comment1.text=\r\n\ toate\ obiectele\ au\ acces\ la\ atributul\ static\ nrPisici,\ dar\r\n\ acesta\ apartine\ clasei,\ nu\ obiectului,\ dupa\ cum\ se\ vede\ si\ in\ \r\n\ constructor\r\n
+numComments=2
