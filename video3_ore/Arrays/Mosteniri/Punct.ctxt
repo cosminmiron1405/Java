@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Punct
+comment1.params=
+comment1.target=Punct()
+comment2.params=x\ y
+comment2.target=Punct(int,\ int)
+numComments=3
