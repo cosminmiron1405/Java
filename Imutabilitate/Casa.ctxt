@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Casa
+comment1.params=nrCamere\ mPatrati\ adresa
+comment1.target=Casa(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getNrCamere()
+comment3.params=
+comment3.target=int\ getMPatrati()
+comment4.params=
+comment4.target=java.lang.String\ getAdresa()
+numComments=5
