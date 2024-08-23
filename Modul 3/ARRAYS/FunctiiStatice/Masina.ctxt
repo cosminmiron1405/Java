@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Masina
+comment1.params=
+comment1.target=void\ seDeplaseaza()
+comment2.params=
+comment2.target=void\ staSemafor()
+comment3.params=nrKm
+comment3.target=double\ transformaKmInMile(int)
+numComments=4
